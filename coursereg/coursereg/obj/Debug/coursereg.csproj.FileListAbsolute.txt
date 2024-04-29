@@ -1,0 +1,34 @@
+F:\Abdullah\1. University\1. Institutional\6th Semester (Autumn 2023)\1. Course\7. CSE-3638 (Software Engineering Lab)\Project\coursereg\coursereg\bin\Debug\coursereg.exe.config
+F:\Abdullah\1. University\1. Institutional\6th Semester (Autumn 2023)\1. Course\7. CSE-3638 (Software Engineering Lab)\Project\coursereg\coursereg\bin\Debug\coursereg.exe
+F:\Abdullah\1. University\1. Institutional\6th Semester (Autumn 2023)\1. Course\7. CSE-3638 (Software Engineering Lab)\Project\coursereg\coursereg\bin\Debug\coursereg.pdb
+F:\Abdullah\1. University\1. Institutional\6th Semester (Autumn 2023)\1. Course\7. CSE-3638 (Software Engineering Lab)\Project\coursereg\coursereg\obj\Debug\coursereg.csproj.AssemblyReference.cache
+F:\Abdullah\1. University\1. Institutional\6th Semester (Autumn 2023)\1. Course\7. CSE-3638 (Software Engineering Lab)\Project\coursereg\coursereg\obj\Debug\coursereg.csproj.SuggestedBindingRedirects.cache
+F:\Abdullah\1. University\1. Institutional\6th Semester (Autumn 2023)\1. Course\7. CSE-3638 (Software Engineering Lab)\Project\coursereg\coursereg\obj\Debug\coursereg.Form1.resources
+F:\Abdullah\1. University\1. Institutional\6th Semester (Autumn 2023)\1. Course\7. CSE-3638 (Software Engineering Lab)\Project\coursereg\coursereg\obj\Debug\coursereg.Properties.Resources.resources
+F:\Abdullah\1. University\1. Institutional\6th Semester (Autumn 2023)\1. Course\7. CSE-3638 (Software Engineering Lab)\Project\coursereg\coursereg\obj\Debug\coursereg.csproj.GenerateResource.cache
+F:\Abdullah\1. University\1. Institutional\6th Semester (Autumn 2023)\1. Course\7. CSE-3638 (Software Engineering Lab)\Project\coursereg\coursereg\obj\Debug\coursereg.csproj.CoreCompileInputs.cache
+F:\Abdullah\1. University\1. Institutional\6th Semester (Autumn 2023)\1. Course\7. CSE-3638 (Software Engineering Lab)\Project\coursereg\coursereg\obj\Debug\coursereg.exe
+F:\Abdullah\1. University\1. Institutional\6th Semester (Autumn 2023)\1. Course\7. CSE-3638 (Software Engineering Lab)\Project\coursereg\coursereg\obj\Debug\coursereg.pdb
+F:\Abdullah\1. University\1. Institutional\6th Semester (Autumn 2023)\1. Course\7. CSE-3638 (Software Engineering Lab)\Project\coursereg\coursereg\obj\Debug\coursereg.New_Admission.resources
+F:\Abdullah\1. University\1. Institutional\6th Semester (Autumn 2023)\1. Course\7. CSE-3638 (Software Engineering Lab)\Project\coursereg\coursereg\obj\Debug\coursereg.UpgradeSemester.resources
+F:\Abdullah\1. University\1. Institutional\6th Semester (Autumn 2023)\1. Course\7. CSE-3638 (Software Engineering Lab)\Project\coursereg\coursereg\obj\Debug\coursereg.Fees.resources
+F:\Abdullah\1. University\1. Institutional\6th Semester (Autumn 2023)\1. Course\7. CSE-3638 (Software Engineering Lab)\Final Project\coursereg\coursereg\bin\Debug\coursereg.exe.config
+F:\Abdullah\1. University\1. Institutional\6th Semester (Autumn 2023)\1. Course\7. CSE-3638 (Software Engineering Lab)\Final Project\coursereg\coursereg\bin\Debug\coursereg.exe
+F:\Abdullah\1. University\1. Institutional\6th Semester (Autumn 2023)\1. Course\7. CSE-3638 (Software Engineering Lab)\Final Project\coursereg\coursereg\bin\Debug\coursereg.pdb
+F:\Abdullah\1. University\1. Institutional\6th Semester (Autumn 2023)\1. Course\7. CSE-3638 (Software Engineering Lab)\Final Project\coursereg\coursereg\obj\Debug\coursereg.csproj.AssemblyReference.cache
+F:\Abdullah\1. University\1. Institutional\6th Semester (Autumn 2023)\1. Course\7. CSE-3638 (Software Engineering Lab)\Final Project\coursereg\coursereg\obj\Debug\coursereg.Fees.resources
+F:\Abdullah\1. University\1. Institutional\6th Semester (Autumn 2023)\1. Course\7. CSE-3638 (Software Engineering Lab)\Final Project\coursereg\coursereg\obj\Debug\coursereg.Form1.resources
+F:\Abdullah\1. University\1. Institutional\6th Semester (Autumn 2023)\1. Course\7. CSE-3638 (Software Engineering Lab)\Final Project\coursereg\coursereg\obj\Debug\coursereg.New_Admission.resources
+F:\Abdullah\1. University\1. Institutional\6th Semester (Autumn 2023)\1. Course\7. CSE-3638 (Software Engineering Lab)\Final Project\coursereg\coursereg\obj\Debug\coursereg.Properties.Resources.resources
+F:\Abdullah\1. University\1. Institutional\6th Semester (Autumn 2023)\1. Course\7. CSE-3638 (Software Engineering Lab)\Final Project\coursereg\coursereg\obj\Debug\coursereg.UpgradeSemester.resources
+F:\Abdullah\1. University\1. Institutional\6th Semester (Autumn 2023)\1. Course\7. CSE-3638 (Software Engineering Lab)\Final Project\coursereg\coursereg\obj\Debug\coursereg.csproj.GenerateResource.cache
+F:\Abdullah\1. University\1. Institutional\6th Semester (Autumn 2023)\1. Course\7. CSE-3638 (Software Engineering Lab)\Final Project\coursereg\coursereg\obj\Debug\coursereg.csproj.CoreCompileInputs.cache
+F:\Abdullah\1. University\1. Institutional\6th Semester (Autumn 2023)\1. Course\7. CSE-3638 (Software Engineering Lab)\Final Project\coursereg\coursereg\obj\Debug\coursereg.exe
+F:\Abdullah\1. University\1. Institutional\6th Semester (Autumn 2023)\1. Course\7. CSE-3638 (Software Engineering Lab)\Final Project\coursereg\coursereg\obj\Debug\coursereg.pdb
+F:\Abdullah\1. University\1. Institutional\6th Semester (Autumn 2023)\1. Course\7. CSE-3638 (Software Engineering Lab)\Final Project\coursereg\coursereg\obj\Debug\coursereg.SearchStudent.resources
+F:\Abdullah\1. University\1. Institutional\6th Semester (Autumn 2023)\1. Course\7. CSE-3638 (Software Engineering Lab)\Final Project\coursereg\coursereg\obj\Debug\coursereg.StudentIndividualDetail.resources
+F:\Abdullah\1. University\1. Institutional\6th Semester (Autumn 2023)\1. Course\7. CSE-3638 (Software Engineering Lab)\Final Project\coursereg\coursereg\obj\Debug\coursereg.RemoveStudent.resources
+F:\Abdullah\1. University\1. Institutional\6th Semester (Autumn 2023)\1. Course\7. CSE-3638 (Software Engineering Lab)\Final Project\coursereg\coursereg\obj\Debug\coursereg.AboutUs.resources
+F:\Abdullah\1. University\1. Institutional\6th Semester (Autumn 2023)\1. Course\7. CSE-3638 (Software Engineering Lab)\Final Project\coursereg\coursereg\obj\Debug\coursereg.studentHomePage.resources
+F:\Abdullah\1. University\1. Institutional\6th Semester (Autumn 2023)\1. Course\7. CSE-3638 (Software Engineering Lab)\Final Project\coursereg\coursereg\obj\Debug\coursereg.myDetails.resources
+F:\Abdullah\1. University\1. Institutional\6th Semester (Autumn 2023)\1. Course\7. CSE-3638 (Software Engineering Lab)\Final Project\coursereg\coursereg\obj\Debug\coursereg.AddOrDrop.resources
