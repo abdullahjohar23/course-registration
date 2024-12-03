@@ -1,6 +1,7 @@
 # A Course Registration (Desktop Application)
 This Application has been created using
 - C#
+- .NET
 - Microsoft SQL
 - Visual Studio
 
